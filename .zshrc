@@ -12,7 +12,7 @@ fi
 # Source/Load zinit
 source "${ZINIT_HOME}/zinit.zsh"
 
-eval "$(oh-my-posh init zsh --config /home/exy/.config/ohmyposh/base.toml)"
+eval "$(oh-my-posh init zsh --config /home/exy/.config/ohmyposh/oh-my-posh.toml)"
 
 
 # Add in zsh plugins
