@@ -1,0 +1,22 @@
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_latte.toml"
+]
+
+[window]
+
+opacity = 0.70
+blur = true
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+
+[font]
+
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+bold_italic = { family = "FiraCode Nerd Font", style = "Bold italic" }
+size = 13.0
