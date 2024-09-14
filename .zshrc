@@ -64,7 +64,6 @@ alias ls='exa --icons --group-directories-first'
 alias vim='nvim'
 alias c='clear'
 alias d="date +%c"
-alias cd="z"
 
 # Shell integrations
 eval "$(fzf --zsh)"
