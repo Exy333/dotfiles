@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
+    "cmake.showOptionsMovedNotification": false,
+    "debug.onTaskErrors": "abort",
+    "files.autoSave": "afterDelay",
+    "window.titleBarStyle": "custom",
+    "search.showInline": true,
+    "workbench.useExperimentalGridLayout": true
+    
+    
+}
